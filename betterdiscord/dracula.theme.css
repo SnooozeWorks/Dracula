@@ -1,8 +1,9 @@
 /**
-    * @name AMOLED-Cord
-    * @version 1.1.0
-    * @description A theme that's nice on your eyes.. lights out baby!
-    * @author LuckFire#4800
+    @name         Dracula-Cord
+    @description  A theme based on the Dracula theme suite.
+    @author       snoooze
+    @namespace    github.com/snooozeworks/dracula
+    @version      1.1.0
 **/
 
 @import url('https://github.com/SnooozeWorks/Dracula/blob/master/betterdiscord/source.css');

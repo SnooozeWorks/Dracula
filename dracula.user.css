@@ -306,9 +306,9 @@
     }
 
     .titleBar-AC4pGV .wordmark-2iDDfm::after {
-        content: "AMOLED-Cord";
+        content: "Dracula-Cord";
         position: absolute;
-        font-family: "Fredoka One";
+        font-family: "Consolas";
         background: white;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
